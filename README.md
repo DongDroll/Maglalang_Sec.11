@@ -3,7 +3,7 @@
 Project Code: WST21-PM-2026-SF
 Student Name: Edroll Jun G. Maglalang
 Course & Year: BSIT - 2 SECTION: 11
-Database Used: SQLite
+Database Used: MySQL
 
 ## Features
 - Add Task

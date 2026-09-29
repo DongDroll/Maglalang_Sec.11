@@ -1,16 +1,20 @@
-# Personal Task Manager
+# Personal Task Manager — Laravel
 
-Project Code: WST21-PM-2026-SF
-Student Name: Edroll Jun G. Maglalang
-Course & Year: BSIT - 2 SECTION: 11
-Database Used: MySQL
+A simple web application for managing daily tasks, built with Laravel for our Web Systems & Technologies subject.
+
+## Project Info
+
+- **Subject:** WST21-PM-2026-SF
+- **Student Name:** Edroll Jun G. Maglalang
+- **Course & Year:** BSIT-2 SEC-11
+- **Database Used:** MySQL
 
 ## Features
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
-- Update Status
+- Update Status (Pending / Completed)
 
 ## About This Project
 

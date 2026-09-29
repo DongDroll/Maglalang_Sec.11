@@ -1,4 +1,4 @@
-# Personal Task Manager — Laravel
+# Personal Task Manager
 
 A simple web application for managing daily tasks, built with Laravel for our Web Systems & Technologies subject.
 
